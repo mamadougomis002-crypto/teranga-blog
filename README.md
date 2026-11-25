@@ -1,4 +1,5 @@
-# Teranga Blog
+# Teranga BlogSite en ligne : [https://teranga-blog-oyi2.netlify.app](https://teranga-blog-oyi2.netlify.app)
+Code : [https://github.com/mamadougomis002-crypto/teranga-blog](https://github.com/mamadougomis002-crypto/teranga-blog)
 
 Mini-blog multipage réalisé pour le cours React (Prof. Diouf). L'application lit des articles, des auteurs et des commentaires depuis l'API publique JSONPlaceholder, avec navigation sans rechargement, recherche, commentaires validés et favoris partagés entre les pages.
 
